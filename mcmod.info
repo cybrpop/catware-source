@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "catware",
+    "name": "Catware",
+    "description": "1.12.2 Hacked Client",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "logoFile": "catware.png",
+    "url": "https://discord.gg/d6kZVtr9RC",
+    "updateUrl": "",
+    "authorList": [
+      "Peterrr__",
+      "RustyLegacy",
+      "cxxf",
+      "ILikeJuice"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
